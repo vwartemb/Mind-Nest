@@ -1,0 +1,575 @@
+{
+    "Nature": [
+        {
+            "title": "Braiding Sweetgrass",
+            "type": "book",
+            "link": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567",
+            "image": "https://m.media-amazon.com/images/I/91hI2Xkr39L._UF894,1000_QL80_.jpg",
+            "description": "A bestselling nonfiction book by Robin Wall Kimmerer that weaves together Indigenous wisdom, scientific knowledge, and the teachings of plants."
+        },
+        {
+            "title": "The Hidden Life of Trees",
+            "type": "book",
+            "link": "https://www.amazon.com/Hidden-Life-Trees-Communicate-Discoveries/dp/1771642483",
+            "image": "https://m.media-amazon.com/images/I/81-v0NHFZNL._SL1500_.jpg",
+            "description": "Peter Wohlleben reveals the secret world of forests and how trees communicate, care for each other, and live in social networks."
+        },
+        {
+            "title": "Nature Podcast",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/nature-podcast/id81934659",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b0/56/82/b05682ce-9ea4-5344-bb60-88507456c327/mza_14062456357964887097.jpg/300x300bb.webp",
+            "description": "The Nature Podcast brings you the best stories from the world of science each week, covering everything from astronomy to zoology."
+        },
+        {
+            "title": "Forces for Nature",
+            "type": "podcast",
+            "link": "https://open.spotify.com/show/2zihEryCU6JT9DsuGhADDh",
+            "image": "",
+            "description": "Crystal DiMiceli interviews people working to create a healthier and more humane world, from scientists to young environmental activists."
+        },
+        {
+            "title": "Planet Earth II",
+            "type": "video",
+            "link": "https://www.youtube.com/watch?v=c8aFcHFu8QM",
+            "image": "https://i.ytimg.com/vi/c8aFcHFu8QM/maxresdefault.jpg",
+            "description": "BBC's groundbreaking nature documentary series showcasing the natural world in stunning 4K detail with David Attenborough's narration."
+        },
+        {
+            "title": "Nature Journaling",
+            "type": "activity",
+            "link": "https://johnmuirlaw.com/how-to-nature-journal/",
+            "image": "https://johnmuirlaw.com/wp-content/uploads/2019/06/nature-journal-cover.jpg",
+            "description": "Learn to observe and document nature through sketching, writing, and scientific observation in a personal nature journal."
+        },
+        {
+            "title": "iNaturalist Citizen Science",
+            "type": "activity",
+            "link": "https://www.inaturalist.org/",
+            "image": "https://www.inaturalist.org/assets/inaturalist-logo-300px-b5e7d3f1d0f6b5d8e2a1d3f7e3f3e3f3.png",
+            "description": "Join a global community of nature enthusiasts to identify species, contribute to science, and learn about biodiversity."
+        }
+    ],
+    "Science": [
+        {
+            "title": "Sapiens",
+            "type": "book",
+            "link": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095",
+            "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg",
+            "description": "Yuval Noah Harari's exploration of how Homo sapiens came to dominate the world through cognitive, agricultural, and scientific revolutions."
+        },
+        {
+            "title": "The Gene: An Intimate History",
+            "type": "book",
+            "link": "https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1476733503/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.73yEfRghLp9E9ZXHAT7a4QKKOCE2kr4xmNSUZFsjCSOn6rfYJmV3lY5Rg1J3Nx22fjmfw6Fq-zOOKFXZKj5_g-FAn8C484TX1vC9KxbuYxxipXvIXFJ5LQe5CtPiaUT0VGOhYHhbfGkyQza8FAln29jLs-F1H5Rpehuz00R0fAi9TYT-gYpXFeT43rt_JOz0r6A5OAs9szN_-pINEcwuTX_ee9gOk-xTJ6aRvFkuotw.WcUcOQm4OA_s_XqM_YeSoHW3Z4ruHSXWPT-Q35eWeR0&qid=1749163555&sr=8-1",
+            "image": "https://m.media-amazon.com/images/I/71knXNNQMwL._SL1500_.jpg",
+            "description": "Siddhartha Mukherjee traces the history of genetics from Mendel's experiments to modern gene therapy and CRISPR technology."
+        },
+        {
+            "title": "Radiolab",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/radiolab/id152249110",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9b/6c/2d/9b6c2d5f-4e8f-5f9c-7e8f-9c8f5f9c7e8f/mza_12345678901234567890.jpg/1200x1200bb.jpg",
+            "description": "WNYC's Radiolab explores scientific concepts through storytelling, sound design, and philosophical questions about our world."
+        },
+        {
+            "title": "Science Vs",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/science-vs/id1051557000",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4e/5f/6c/4e5f6c7d-8e9f-0a1b-2c3d-4e5f6c7d8e9f/mza_9876543210987654321.jpg/1200x1200bb.jpg",
+            "description": "Wendy Zukerman pits facts against popular opinion, examining the science behind health trends, conspiracy theories, and debates."
+        },
+        {
+            "title": "MinutePhysics",
+            "type": "video",
+            "link": "https://www.youtube.com/user/minutephysics",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_k3jK7gH8fK5L2pN9qR8xY1vZ2wQ3eR4tY5uI=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Henry Reich explains complex physics concepts in simple, animated videos that make science accessible to everyone."
+        },
+        {
+            "title": "Veritasium",
+            "type": "video",
+            "link": "https://www.youtube.com/user/1veritasium",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_mL5kN3oP2qR3sT4uV6wX7yZ8aQ9bR0cS1dT=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Derek Muller creates engineering and science videos that explore interesting phenomena and counterintuitive results."
+        },
+        {
+            "title": "DIY Science Experiments",
+            "type": "activity",
+            "link": "https://www.exploratorium.edu/explore/hands-on-science",
+            "image": "https://www.exploratorium.edu/sites/default/files/styles/large/public/hands-on-science-hero.jpg",
+            "description": "Hands-on science activities from the Exploratorium that you can do at home with everyday materials."
+        },
+        {
+            "title": "Build a Telescope",
+            "type": "activity",
+            "link": "https://www.skyandtelescope.com/astronomy-resources/how-to-build-a-telescope/",
+            "image": "https://skyandtelescope.org/wp-content/uploads/DIY-telescope-feature-image.jpg",
+            "description": "Learn to build your own telescope and explore astronomy through hands-on construction and observation."
+        }
+    ],
+    "History": [
+        {
+            "title": "A People's History of the World",
+            "type": "book",
+            "link": "https://www.amazon.com/Peoples-History-World-Stone-Present/dp/1844678709",
+            "image": "https://m.media-amazon.com/images/I/71LEVoDAcjL._SL1225_.jpg",
+            "description": "Chris Harman presents history from the perspective of ordinary people, challenging traditional narratives of power and progress."
+        },
+        {
+            "title": "The Silk Roads",
+            "type": "book",
+            "link": "https://www.amazon.com/Silk-Roads-New-History-World/dp/1101912375/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.mkuYT4Hsr7zgVnuN1E6dVQOu7jc2IrVyKsmMAz8wLZWazhi_f4jNWW-a7zgBoTUVrGZHH2mEgS4oq1FTlT8Mzmno-ncX89w9qlm5xsSwNq8nOZJjD-FF-HXODLwSWoIISsrdwvumYyjhx4HAmzgLZV5n5_RbYhBiIsilBwCqE7zxDZe7va6dG8li2jO9px86VbkVz0gJaOxWMcxUQnOG-60wwAoqmMDBdXLVRz7uNgk.2AdrThwIgUQRTF4-Us6n2lv1NwNvH1YBGeml_Nuochg&qid=1749163777&sr=8-1",
+            "image": "https://m.media-amazon.com/images/I/91A1-6ny+pL._SL1500_.jpg",
+            "description": "Peter Frankopan reframes world history through the networks of trade routes that connected East and West for millennia."
+        },
+        {
+            "title": "Hardcore History",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/dan-carlins-hardcore-history/id173001861",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7a/8b/9c/7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d/mza_1357924680246813579.jpg/1200x1200bb.jpg",
+            "description": "Dan Carlin's immersive historical narratives bring the past to life through detailed storytelling and unique perspectives."
+        },
+        {
+            "title": "Revolutions",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/revolutions/id703889772",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/2b/3c/4d/2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e/mza_2468135791357924680.jpg/1200x1200bb.jpg",
+            "description": "Mike Duncan examines the great political revolutions that have shaped the modern world, from the English Civil War to the Russian Revolution."
+        },
+        {
+            "title": "Extra History",
+            "type": "video",
+            "link": "https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu",
+            "image": "https://i.ytimg.com/vi/EbBHk_zLTmY/maxresdefault.jpg",
+            "description": "Extra Credits team creates animated educational videos covering fascinating historical events and lesser-known stories."
+        },
+        {
+            "title": "Crash Course World History",
+            "type": "video",
+            "link": "https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9",
+            "image": "https://i.ytimg.com/vi/Yocja_N5s1I/maxresdefault.jpg",
+            "description": "John Green presents world history in fast-paced, entertaining episodes that cover major themes and events."
+        },
+        {
+            "title": "Historical Reenactment",
+            "type": "activity",
+            "link": "https://www.nps.gov/subjects/livinghistory/index.htm",
+            "image": "https://www.nps.gov/common/uploads/grid_builder/subjects/crop16_9/86C2A8E6-1DD8-B71B-0B8F5E4B7C7B3B3B.jpg",
+            "description": "Participate in living history programs and historical reenactments to experience the past firsthand."
+        },
+        {
+            "title": "Create a Family Timeline",
+            "type": "activity",
+            "link": "https://www.familysearch.org/en/blog/create-family-timeline",
+            "image": "https://www.familysearch.org/blog/en/wp-content/uploads/2019/05/family-timeline-hero.jpg",
+            "description": "Research and create a visual timeline of your family's history, connecting personal stories to historical events."
+        }
+    ],
+    "Art": [
+        {
+            "title": "Ways of Seeing",
+            "type": "book",
+            "link": "https://www.amazon.com/Ways-Seeing-John-Berger/dp/0140135154",
+            "image": "https://m.media-amazon.com/images/I/61u10OCu-pL._SL1200_.jpg",
+            "description": "John Berger's influential work on how we perceive and understand visual culture, art, and the act of seeing itself."
+        },
+        {
+            "title": "The Story of Art",
+            "type": "book",
+            "link": "https://www.amazon.com/Story-Art-E-H-Gombrich/dp/0714832472",
+            "image": "https://m.media-amazon.com/images/I/81uurBj+l9L._SL1500_.jpg",
+            "description": "E.H. Gombrich's comprehensive and accessible introduction to the history of art from cave paintings to modern times."
+        },
+        {
+            "title": "A Piece of Work",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/a-piece-of-work/id1280675306",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/3c/4d/5e/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f/mza_3579135792468135791.jpg/1200x1200bb.jpg",
+            "description": "WNYC and Abbi Jacobson explore famous artworks, revealing the stories, techniques, and cultural context behind masterpieces."
+        },
+        {
+            "title": "The Modern Art Notes Podcast",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/the-modern-art-notes-podcast/id214437727",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4d/5e/6f/4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a/mza_4681357924681357924.jpg/1200x1200bb.jpg",
+            "description": "Tyler Green interviews artists, curators, and art historians about contemporary and modern art, museums, and cultural issues."
+        },
+        {
+            "title": "The Art Assignment",
+            "type": "video",
+            "link": "https://www.youtube.com/channel/UCmQVH2-rJ0ZbJWqJpCHGHfg",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_nO4pQ5rS6tU7vW8xY9zA0bR1cS2dT3eU4fV=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Sarah Urist Green explores art history and contemporary art practice, featuring assignments that encourage creative participation."
+        },
+        {
+            "title": "Great Art Explained",
+            "type": "video",
+            "link": "https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_oP5qR6sT7uV8wX9yZ0aB1cR2dS3eT4fU5gW=s900-c-k-c0x00ffffff-no-rj",
+            "description": "James Payne breaks down famous paintings and artworks, explaining their historical context, techniques, and cultural significance."
+        },
+        {
+            "title": "Visit Local Art Museums",
+            "type": "activity",
+            "link": "https://www.si.edu/museums",
+            "image": "https://www.si.edu/sites/default/files/newsdesk/photos/hirshhorn-exterior-2019.jpg",
+            "description": "Explore art collections in person at local museums, galleries, and cultural institutions to experience artworks firsthand."
+        },
+        {
+            "title": "Art Journaling",
+            "type": "activity",
+            "link": "https://www.thepostmansknock.com/art-journaling-for-beginners/",
+            "image": "https://www.thepostmansknock.com/wp-content/uploads/2019/02/art-journaling-for-beginners-cover.jpg",
+            "description": "Combine visual art with personal reflection through mixed-media journaling, exploring creativity and self-expression."
+        }
+    ],
+    "Tech": [
+        {
+            "title": "The Innovators",
+            "type": "book",
+            "link": "https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703",
+            "image": "https://m.media-amazon.com/images/I/71zcV2aQrQL._SL1500_.jpg",
+            "description": "Walter Isaacson chronicles the history of the digital revolution and the people who created the computer and internet age."
+        },
+        {
+            "title": "Race After Technology",
+            "type": "book",
+            "link": "https://www.amazon.com/Race-After-Technology-Abolitionist-Tools/dp/1509526404",
+            "image": "https://m.media-amazon.com/images/I/81yXiS6H0WL._SL1500_.jpg",
+            "description": "Ruha Benjamin examines how technology can perpetuate racial bias and inequality, calling for more equitable design practices."
+        },
+        {
+            "title": "Reply All",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/reply-all/id941907967",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5e/6f/7a/5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b/mza_5792468135792468135.jpg/1200x1200bb.jpg",
+            "description": "Gimlet Media's show about the internet and how it affects our lives, featuring investigations into online culture and digital mysteries."
+        },
+        {
+            "title": "Darknet Diaries",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/6f/7a/8b/6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c/mza_6803579135792468135.jpg/1200x1200bb.jpg",
+            "description": "Jack Rhysider explores the dark side of technology through true stories about hackers, breaches, and cybercrime."
+        },
+        {
+            "title": "Tom Scott",
+            "type": "video",
+            "link": "https://www.youtube.com/user/enyay",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_pQ6rS7tU8vW9xY0zA1bR2cS3dT4eU5fV6gW=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Tom Scott creates educational videos about technology, science, and interesting places, explaining complex concepts clearly."
+        },
+        {
+            "title": "Marques Brownlee (MKBHD)",
+            "type": "video",
+            "link": "https://www.youtube.com/user/marquesbrownlee",
+            "image": "https://yt3.googleusercontent.com/lkH7dKbdk4cLdKt3rVOJz7HTrxaqy0WEoEZXH8_HV7_6_3Z1eKo-Ynz8l_8Aq7YJK4CZ_8Aq7YJK4CZ=s900-c-k-c0x00ffffff-no-rj",
+            "description": "In-depth reviews and explanations of the latest technology, from smartphones to electric vehicles and emerging tech trends."
+        },
+        {
+            "title": "Learn Coding with FreeCodeCamp",
+            "type": "activity",
+            "link": "https://www.freecodecamp.org/",
+            "image": "https://www.freecodecamp.org/news/content/images/2021/05/freecodecamp-square-logo.png",
+            "description": "Free online platform to learn programming through interactive lessons, projects, and certifications in web development."
+        },
+        {
+            "title": "Build Raspberry Pi Projects",
+            "type": "activity",
+            "link": "https://projects.raspberrypi.org/en/",
+            "image": "https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png",
+            "description": "Hands-on computer science projects using Raspberry Pi, from basic programming to robotics and IoT applications."
+        }
+    ],
+    "Personal Development": [
+        {
+            "title": "Atomic Habits",
+            "type": "book",
+            "link": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
+            "image": "https://m.media-amazon.com/images/I/81ANaVZk5LL._SL1500_.jpg",
+            "description": "James Clear's practical guide to building good habits and breaking bad ones through small, incremental changes."
+        },
+        {
+            "title": "Mindset: The New Psychology of Success",
+            "type": "book",
+            "link": "https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322",
+            "image": "https://m.media-amazon.com/images/I/71h937MExWL._SL1500_.jpg",
+            "description": "Carol Dweck explores how our beliefs about our abilities affect our success and how to develop a growth mindset."
+        },
+        {
+            "title": "The Life Coach School Podcast",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/the-life-coach-school-podcast/id870239631",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/7a/8b/9c/7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d/mza_7914680246813579246.jpg/1200x1200bb.jpg",
+            "description": "Brooke Castillo teaches practical tools for personal development, emotional management, and creating the life you want."
+        },
+        {
+            "title": "The Tim Ferriss Show",
+            "type": "podcast",
+            "link": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8b/9c/0d/8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e/mza_8025791357924681357.jpg/1200x1200bb.jpg",
+            "description": "Tim Ferriss interviews world-class performers to deconstruct their routines, habits, and tactics for success."
+        },
+        {
+            "title": "TEDx Talks",
+            "type": "video",
+            "link": "https://www.youtube.com/user/TEDxTalks",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_qR7sT8uV9wX0yZ1aB2cR3dS4eT5fU6gV7hW=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Inspirational talks from entrepreneurs, thought leaders, and innovators sharing ideas worth spreading."
+        },
+        {
+            "title": "School of Life",
+            "type": "video",
+            "link": "https://www.youtube.com/user/schooloflifechannel",
+            "image": "https://yt3.googleusercontent.com/ytc/AIdro_rS8tU9vW0xY1zA2bR3cS4dT5eU6fV7gW8hX=s900-c-k-c0x00ffffff-no-rj",
+            "description": "Philosophy and psychology videos exploring emotional intelligence, relationships, work, and finding meaning in life."
+        },
+        {
+            "title": "30-Day Challenge",
+            "type": "activity",
+            "link": "https://www.30daychallenges.com/",
+            "image": "https://www.30daychallenges.com/images/30-day-challenge-logo.png",
+            "description": "Choose from various 30-day personal development challenges to build new habits and expand your comfort zone."
+        },
+        {
+            "title": "Journaling Practice",
+            "type": "activity",
+            "link": "https://www.intelligentchange.com/blogs/read/the-benefits-of-journaling",
+            "image": "https://cdn.shopify.com/s/files/1/0090/9236/3991/articles/journaling-benefits-header.jpg",
+            "description": "Develop a daily journaling practice for self-reflection, goal setting, and personal growth tracking."
+        }
+    ],
+    "Fitness": [
+        {
+            "title": "Becoming a Supple Leopard",
+            "type": "book",
+            "link": "https://www.amazon.com/Becoming-Supple-Leopard-2nd-Performance/dp/1628600837",
+            "image": "https://m.media-amazon.com/images/I/81mKopMbkiL._SL1500_.jpg",
+            "description": "Kelly Starrett's comprehensive guide to movement, mobility, and performance optimization."
+        },
+        {
+            "title": "Starting Strength",
+            "type": "book",
+            "link": "https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738",
+            "image": "https://m.media-amazon.com/images/I/41io8b8TV0L.jpg",
+            "description": "Mark Rippetoe's definitive guide to basic barbell training and strength development."
+        },
+        {
+            "title": "The Ben Greenfield Life",
+            "type": "podcast",
+            "link": "https://bengreenfieldlife.com/podcast/",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a8/9d/4e/a89d4ea7-8c9c-7f3a-9c7e-4d2a2b3c4d5e/mza_12345678901234567890.png/300x300bb.jpg",
+            "description": "Biohacking, fitness, nutrition, and longevity insights from Ben Greenfield."
+        },
+        {
+            "title": "Mind Pump",
+            "type": "podcast",
+            "link": "https://mindpumpmedia.com/",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/12/84/f7128435-1234-5678-9abc-def012345678/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Raw fitness and nutrition insights from Sal, Adam, and Justin."
+        },
+        {
+            "title": "AthleanX Full Body Workout",
+            "type": "video",
+            "link": "https://www.youtube.com/watch?v=vc1E5CfRfos",
+            "image": "https://img.youtube.com/vi/vc1E5CfRfos/maxresdefault.jpg",
+            "description": "Complete full-body workout routine from Jeff Cavaliere's AthleanX channel."
+        },
+        {
+            "title": "Yoga with Adriene - 30 Day Challenge",
+            "type": "video",
+            "link": "https://www.youtube.com/playlist?list=PLui6Eyny-UzwxbWCWDbTzEwsZnnROBTIL",
+            "image": "https://img.youtube.com/vi/v7AYKMP6rOE/maxresdefault.jpg",
+            "description": "Free 30-day yoga challenge for all levels with Adriene Mishler."
+        },
+        {
+            "title": "Local Hiking Trail Exploration",
+            "type": "activity",
+            "link": "https://www.alltrails.com/",
+            "image": "https://cdn.alltrails.com/static-map/production/at-map/17396085/trail-us-illinois-lakefront-trail-at-1000x600-5e2c2a7.jpg",
+            "description": "Discover and explore hiking trails in your area using AllTrails app."
+        },
+        {
+            "title": "Rock Climbing at Local Gym",
+            "type": "activity",
+            "link": "https://www.verticalworld.com/",
+            "image": "https://plus.unsplash.com/premium_photo-1663013494733-fd80d45cba4b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Indoor rock climbing for strength, problem-solving, and community."
+        }
+    ],
+    "Cooking": [
+        {
+            "title": "Salt, Fat, Acid, Heat",
+            "type": "book",
+            "link": "https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830",
+            "image": "https://m.media-amazon.com/images/I/81JVTtQzJ+L._SL1500_.jpg",
+            "description": "Samin Nosrat's guide to mastering the four fundamental elements of good cooking."
+        },
+        {
+            "title": "The Food Lab",
+            "type": "book",
+            "link": "https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087",
+            "image": "https://m.media-amazon.com/images/I/71NXfMvnmQL._SL1500_.jpg",
+            "description": "J. Kenji López-Alt's scientific approach to home cooking with detailed explanations."
+        },
+        {
+            "title": "The Splendid Table",
+            "type": "podcast",
+            "link": "https://www.splendidtable.org/",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/72/8e/a1/728ea195-1234-5678-9abc-def012345678/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "NPR's award-winning food show with recipes, cooking tips, and food culture."
+        },
+        {
+            "title": "The Dave Chang Show",
+            "type": "podcast",
+            "link": "https://www.theringer.com/the-dave-chang-show",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/c2/d3/f1c2d3e4-5678-9abc-def0-123456789abc/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Chef David Chang discusses food, culture, and life with various guests."
+        },
+        {
+            "title": "Bon Appétit Test Kitchen",
+            "type": "video",
+            "link": "https://www.youtube.com/c/bonappetit",
+            "image": "https://img.youtube.com/vi/vWlTdqVvHuU/maxresdefault.jpg",
+            "description": "Professional chefs demonstrate techniques and create recipes in Bon Appétit's test kitchen."
+        },
+        {
+            "title": "Joshua Weissman Cooking Videos",
+            "type": "video",
+            "link": "https://www.youtube.com/c/JoshuaWeissman",
+            "image": "https://img.youtube.com/vi/jQD6S6v4TyU/maxresdefault.jpg",
+            "description": "Home cooking techniques and recipes from chef Joshua Weissman."
+        },
+        {
+            "title": "Local Farmers Market Visit",
+            "type": "activity",
+            "link": "https://www.farmersmarketcoalition.org/",
+            "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Explore local farmers markets for fresh, seasonal ingredients and cooking inspiration."
+        },
+        {
+            "title": "Cooking Class at Local Culinary School",
+            "type": "activity",
+            "link": "https://www.kendallcollegeofculinaryarts.edu/",
+            "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Hands-on cooking classes to learn new techniques and cuisines."
+        }
+    ],
+    "Travel": [
+        {
+            "title": "A Walk in the Woods",
+            "type": "book",
+            "link": "https://www.amazon.com/Walk-Woods-Rediscovering-America-Appalachian/dp/0307279464",
+            "image": "https://m.media-amazon.com/images/I/91GePL4NfiL._SL1500_.jpg",
+            "description": "Bill Bryson's humorous account of hiking the Appalachian Trail."
+        },
+        {
+            "title": "Wild",
+            "type": "book",
+            "link": "https://www.amazon.com/Wild-Found-Pacific-Crest-Trail/dp/0307476073",
+            "image": "https://m.media-amazon.com/images/I/71M6e86LzpL._SL1500_.jpg",
+            "description": "Cheryl Strayed's memoir of self-discovery while hiking the Pacific Crest Trail."
+        },
+        {
+            "title": "Travel with Rick Steves",
+            "type": "podcast",
+            "link": "https://www.ricksteves.com/radio",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b3/4d/5e/b34d5e6f-7890-1234-5678-9abcdef01234/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Travel tips, cultural insights, and destination guides from Rick Steves."
+        },
+        {
+            "title": "Zero To Travel",
+            "type": "podcast",
+            "link": "https://zerotravel.com/",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c5/e6/f7/c5e6f789-0123-4567-89ab-cdef01234567/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Travel stories and tips for budget travelers and digital nomads."
+        },
+        {
+            "title": "Kara and Nate Travel Vlogs",
+            "type": "video",
+            "link": "https://www.youtube.com/c/karaandnate",
+            "image": "https://img.youtube.com/vi/Hy-ggKNGQ8Q/maxresdefault.jpg",
+            "description": "Travel couple documenting their journey to visit 100 countries."
+        },
+        {
+            "title": "Drew Binsky Travel Videos",
+            "type": "video",
+            "link": "https://www.youtube.com/c/DrewBinsky",
+            "image": "https://img.youtube.com/vi/PJnJ8mK3Q3g/maxresdefault.jpg",
+            "description": "Travel documentaries and cultural explorations from around the world."
+        },
+        {
+            "title": "Local Photography Walk",
+            "type": "activity",
+            "link": "https://www.meetup.com/topics/photography/",
+            "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Join local photography groups to explore your city with a travel mindset."
+        },
+        {
+            "title": "Weekend Road Trip Planning",
+            "type": "activity",
+            "link": "https://roadtrippers.com/",
+            "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Plan and execute local road trips to explore nearby destinations."
+        }
+    ],
+    "Mindfulness & Meditation": [
+        {
+            "title": "The Power of Now",
+            "type": "book",
+            "link": "https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808",
+            "image": "https://m.media-amazon.com/images/I/61Ij8nLooNL._SL1500_.jpg",
+            "description": "Eckhart Tolle's guide to spiritual enlightenment through present-moment awareness."
+        },
+        {
+            "title": "Wherever You Go, There You Are",
+            "type": "book",
+            "link": "https://www.amazon.com/Wherever-You-There-Are-Mindfulness/dp/1401307787",
+            "image": "https://m.media-amazon.com/images/I/81YGcWlDmUL._SL1500_.jpg",
+            "description": "Jon Kabat-Zinn's practical guide to mindfulness meditation in everyday life."
+        },
+        {
+            "title": "On Being with Krista Tippett",
+            "type": "podcast",
+            "link": "https://onbeing.org/series/podcast/",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d7/e8/f9/d7e8f901-2345-6789-abcd-ef0123456789/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Thoughtful conversations about life, spirituality, and what it means to be human."
+        },
+        {
+            "title": "Ten Percent Happier with Dan Harris",
+            "type": "podcast",
+            "link": "https://www.tenpercent.com/podcast",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/b0/c1/a9b0c1d2-3456-789a-bcde-f01234567890/mza_1234567890123456789.jpg/300x300bb.jpg",
+            "description": "Meditation and mindfulness advice from Dan Harris and expert guests."
+        },
+        {
+            "title": "Headspace Guided Meditations",
+            "type": "video",
+            "link": "https://www.youtube.com/c/Headspace",
+            "image": "https://img.youtube.com/vi/ZToicYcHIOU/maxresdefault.jpg",
+            "description": "Short guided meditation videos from the Headspace team."
+        },
+        {
+            "title": "The Honest Guys Meditation",
+            "type": "video",
+            "link": "https://www.youtube.com/c/TheHonestGuys",
+            "image": "https://img.youtube.com/vi/1ZYbU82GVz4/maxresdefault.jpg",
+            "description": "Relaxation and meditation videos for sleep, stress relief, and mindfulness."
+        },
+        {
+            "title": "Local Meditation Group",
+            "type": "activity",
+            "link": "https://www.meetup.com/topics/meditation/",
+            "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Join local meditation groups for community practice and support."
+        },
+        {
+            "title": "Nature Walking Meditation",
+            "type": "activity",
+            "link": "https://www.mindful.org/walking-meditation/",
+            "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+            "description": "Practice mindful walking in natural settings like parks or nature trails."
+        }
+    ]
+}
